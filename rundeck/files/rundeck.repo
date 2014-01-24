@@ -1,0 +1,17 @@
+[rundeck-release]
+name=Rundeck - Release
+baseurl=http://repo.rundeck.org/repo/rundeck/1/release
+enabled=1
+gpgcheck=0
+
+[rundeck-updates]
+name=Rundeck - Release
+baseurl=http://repo.rundeck.org/repo/rundeck/1/updates
+enabled=0
+gpgcheck=0
+
+[rundeck-bleedingedge]
+name=Rundeck - Release
+baseurl=http://repo.rundeck.org/repo/rundeck/1/bleedingedge
+enabled=0
+gpgcheck=0
